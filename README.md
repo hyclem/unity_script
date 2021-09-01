@@ -19,12 +19,14 @@ The player makes choices and __helps a character with type 1 diabetes__. The pla
 It is an alternation of __course and mini game__ (question/answer). All the answers are collected and recorded in a database that can be retrieved by health professionals organizing the course. They will be able to have a feedback and review the concepts not understood. 
 
 <br>
+
 ---
 
 ## Logiciel & installation / Equipment
 Script have been writen during a Serious Game project. We used Unity version 2019.4.14f1 
 
 <br>
+
 ---
 
 ## Script & functionnality 
