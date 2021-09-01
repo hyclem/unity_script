@@ -4,7 +4,6 @@
 # Serious Game with Unity
 In this directory, you will find scripts written in __C# langage__ and used in a __Unity__ game project. 
 
-<!-- <img id="niv1" src="https://j.gifs.com/qQl0Nr.gif" width="450"/> -->
 <img id="niv1" src="gif_animation/first.gif" width="450"/>
 
 ### Serious Game ? 
@@ -32,18 +31,19 @@ Script have been writen during a Serious Game project. We used Unity version 201
 
 ## Script & functionnality 
 ### - Health bar 
+<!-- HealthBar.cs -->
 <br>
-
-<!-- <img id="niv2_healthBar" src="https://j.gifs.com/79prPA.gif" width="450"/> -->
-<img id="niv2_healthBar" src="gif_animation/lifeBare.gif" width="450"/>
+<img id="niv2_healthBar" src="gif_animation/lifeBar.gif" width="450"/>
 
 
 
-#### - Card game
+### - Card game
+<!-- MainCard.cs et voir Niv2_6_Card -->
 <br>
-
-<!-- <img id="card" src="https://j.gifs.com/pZkvy6.gif" width="450"/> -->
 <img id="card" src="gif_animation/card_game.gif" width="450"/>
+
+### - Dialog 
+<!-- dialog.cs  -->
 
 
 
