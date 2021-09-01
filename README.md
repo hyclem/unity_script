@@ -5,6 +5,7 @@
 In this directory you will found script in __C# langage__ developed and used in a __Unity__ game project. 
 
 <img id="niv1" src="https://j.gifs.com/qQl0Nr.gif" width="450"/>
+<img id="niv1" src="gif_animation/first.gif" width="450"/>
 
 ### Serious Game ? 
 Serious game is a field where game are developed in goal to learn something. In our case, we choose the healthcare field. 
@@ -34,11 +35,16 @@ Script have been writen during a Serious Game project. We used Unity version 201
 <br>
 
 <img id="niv2_healthBar" src="https://j.gifs.com/79prPA.gif" width="450"/>
+<img id="niv2_healthBar" src="gif_animation/lifeBare.gif" width="450"/>
+
+
 
 #### - Card game
 <br>
 
 <img id="card" src="https://j.gifs.com/pZkvy6.gif" width="450"/>
+<img id="card" src="gif_animation/card_game.gif" width="450"/>
+
 
 
 <!-- ---
