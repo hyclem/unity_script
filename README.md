@@ -2,13 +2,13 @@
 <br>
 
 # Serious Game with Unity
-In this directory you will found script in __C# langage__ developed and used in a __Unity__ game project. 
+In this directory, you will find scripts written in __C# langage__ and used in a __Unity__ game project. 
 
 <!-- <img id="niv1" src="https://j.gifs.com/qQl0Nr.gif" width="450"/> -->
 <img id="niv1" src="gif_animation/first.gif" width="450"/>
 
 ### Serious Game ? 
-Serious game is a field where game are developed in goal to learn something. In our case, we choose the healthcare field. 
+Serious games are games that have another purpose besides entertainment, learn something. In our case, we choose the healthcare field. 
 
 ### Objective
 This game is intended to be used in __therapeutic education activities__ that take place in the hospital. These 15 minute sessions are designed to teach patients how to deal with their diabetes on a daily basis. 
